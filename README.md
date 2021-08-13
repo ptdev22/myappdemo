@@ -1,6 +1,6 @@
 # myappdemo
 
-A new Flutter project.
+A new Flutter project CRUD.
 
 ## Getting Started
 
